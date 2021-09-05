@@ -5,7 +5,7 @@
 
 Both client and Server Jar files will be found in `out/artifacts`  
 
-In order to run the whole internet chart room scenario, you must first run the Server Jar File by entering `java -cp Server.jar Server` and then set up the port number you want the server to listen. 
+In order to run the whole scenario, you must first run the Server Jar File by entering `java -cp Server.jar Server` and then set up the port number you want the server to listen. 
 
 Finally to run the client application, enter  `java -cp Client.jar Client` in a separate terminal.
 
